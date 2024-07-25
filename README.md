@@ -1,8 +1,7 @@
-![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
-# ProGrad Lab | BRRRGRRR
+ Lab | BRRRGRRR
 
-Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. Mama has heard of ProGrads and she thought you could do a great job. 
+Mama Jenny is the best cook you would ever met. She makes the most amazing burgers in her tiny diner across the street. Mama is extremely popular and has recently had the idea to take her business online. Unfortunately, she isn't the best at web development. 
 
 Help Mama create a website that'll attract more audience and help her make a living through it. Go to the `src/app.js` file and complete all the unfinished code to let her live here dream.
 
@@ -18,10 +17,10 @@ Practice DOM Features
 Upon completion, run the following commands:
 
 git add .
-git commit -m "ProGrad ID"
+git commit -m "commit message"
 git push origin master
 
-And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
+
 ```
 
 ### Progression 1: LAYERS
